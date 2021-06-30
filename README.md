@@ -5,5 +5,7 @@ Une Optimisation pour vos serveur garry's Mod compatible pour tout les gamemodes
 Aller dans les fichiers FTP de votre serveur et placer le dans le dossier => addons
 
 #Contact
+
 Discord: Niwaka#4056
+
 Steam : https://steamcommunity.com/id/NiwakaDarling/
